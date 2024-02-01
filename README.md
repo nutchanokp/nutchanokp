@@ -1,4 +1,13 @@
 ### Hi there 👋
+🤣 ขอมอร์ฟีนแก้ปวดหลัง 1 ea
+
+## Skills
+<a href="https://www.freeiconspng.com/img/3089">green Android icon</a>
+- Android 
+Kotlin
+
++ Micro Controller
+
 
 
 <!-- ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...   -->
