@@ -10,17 +10,17 @@
 <!-- <a href="https://www.freeiconspng.com/img/3089">green Android icon</a> -->
 
 - Android 
-Using Java, Kotlin Language
-Architecture patterns : MVP , MVVM , Clean , Modular
-Using local Database with Realm , Room 
-UX UI Design with XML , Data Binding , Compose UI
-dependency injection : Koin , Dagger
-Connect Api Using retrofit , okhttp , crypto
-Activity , Lifecycle ,  Livedata Fragment , Navigation , Reactive
-Library : pdf-viewer , Glide ,  ESC Printer
-Unit Test using junit
-Other : Firebase , SharedPreferences , Google Ads , Permissions , Android SDK
-Fastlane
+Using Java, Kotlin Language <br>
+Architecture patterns : MVP , MVVM , Clean , Modular<br>
+Using local Database with Realm , Room <br>
+UX UI Design with XML , Data Binding , Compose UI<br>
+dependency injection : Koin , Dagger<br>
+Connect Api Using retrofit , okhttp , crypto<br>
+Activity , Lifecycle ,  Livedata Fragment , Navigation , Reactive<br>
+Library : pdf-viewer , Glide ,  ESC Printer<br>
+Unit Test using junit<br>
+Other : Firebase , SharedPreferences , Google Ads , Permissions , Android SDK<br>
+Fastlane<br>
 
 
 + Micro Controller
