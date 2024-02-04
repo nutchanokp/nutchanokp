@@ -9,7 +9,8 @@
 
 ![green Android icon](./pic/android.svg) 
 
-- Android 
++ Android
+
 Using Java, Kotlin Language <br>
 Architecture patterns : MVP , MVVM , Clean , Modular<br>
 Using local Database with Realm , Room <br>
@@ -25,7 +26,15 @@ Fastlane<br>
 
 + Micro Controller
 
+![arduino](./pic/arduino.svg) 
 
+
+
++ IOS
+
+![ios](./pic/ios.svg) 
+
++ GAME
 
 <!-- ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...   -->
 <!-- 
