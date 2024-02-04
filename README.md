@@ -1,11 +1,10 @@
+<!--icon ref: https://gist.github.com/rxaviers/7360908 -->
 ### Hi there 👋
 🤣 ขอมอร์ฟีนแก้ปวดหลัง 1 ea
 
 ## Skills
 
 ![green Android icon](./pic/android.svg) 
-
-<!-- <a href="https://www.freeiconspng.com/img/3089">green Android icon</a> -->
 
 - Android 
 Using Java, Kotlin Language <br>
