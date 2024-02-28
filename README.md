@@ -16,7 +16,7 @@ https://icons8.com/icons
 
 + Android<br>
 Project<br>
-[Resistor Calculator](https://github.com/nutchanokp/ResistorCalculatorAndroid.git)\
+[Resistor Calculator](https://github.com/nutchanokp/ResistorCalculatorAndroid.git)
 
 Using Java, Kotlin Language <br>
 Architecture patterns : MVP , MVVM , Clean , Modular<br>
