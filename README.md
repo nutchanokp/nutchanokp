@@ -15,6 +15,8 @@ https://icons8.com/icons
 ![green Android icon](./pic/android.svg) 
 
 + Android
+Project
+![Resistor Calculator](https://github.com/nutchanokp/ResistorCalculatorAndroid.git)\
 
 Using Java, Kotlin Language <br>
 Architecture patterns : MVP , MVVM , Clean , Modular<br>
